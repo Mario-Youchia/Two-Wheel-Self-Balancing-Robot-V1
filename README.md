@@ -30,7 +30,7 @@ The native model and manufacturing exports are published on GrabCAD:
 
 This repository includes the Fritzing schematic, a schematic export, block diagrams, and a mobile-application interaction concept.
 
-![System schematic for the Two-Wheel Self-Balancing Robot V1](images/system-schematic.png)
+![System schematic for the Two-Wheel Self-Balancing Robot V1](electronics/schematic-diagram.png)
 
 ## Firmware
 
